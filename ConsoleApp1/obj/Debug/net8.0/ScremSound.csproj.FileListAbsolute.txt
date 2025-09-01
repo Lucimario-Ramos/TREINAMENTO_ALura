@@ -1,0 +1,15 @@
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\obj\Debug\net8.0\ScremSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\obj\Debug\net8.0\ScremSound.AssemblyInfoInputs.cache
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\obj\Debug\net8.0\ScremSound.AssemblyInfo.cs
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\obj\Debug\net8.0\ScremSound.csproj.CoreCompileInputs.cache
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\obj\Debug\net8.0\ScremSound.sourcelink.json
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\bin\Debug\net8.0\ScremSound.exe
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\bin\Debug\net8.0\ScremSound.deps.json
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\bin\Debug\net8.0\ScremSound.runtimeconfig.json
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\bin\Debug\net8.0\ScremSound.dll
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\bin\Debug\net8.0\ScremSound.pdb
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\obj\Debug\net8.0\ScremSound.dll
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\obj\Debug\net8.0\refint\ScremSound.dll
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\obj\Debug\net8.0\ScremSound.pdb
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\obj\Debug\net8.0\ScremSound.genruntimeconfig.cache
+C:\Users\Cailan\OneDrive\Área de Trabalho\TREINAMENTO_ALura\ConsoleApp1\obj\Debug\net8.0\ref\ScremSound.dll
