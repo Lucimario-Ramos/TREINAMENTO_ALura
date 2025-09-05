@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cailan\\OneDrive\\\u00C1rea de Trabalho\\TREINAMENTO_ALura\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\lroliveira\\OneDrive\\Desktop\\Alura Classes\\TREINAMENTO_ALura\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D71B18E-C837-433C-A51A-6B1DE61B1063}|ScremSound.csproj|c:\\users\\cailan\\onedrive\\\u00E1rea de trabalho\\treinamento_alura\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D71B18E-C837-433C-A51A-6B1DE61B1063}|ScremSound.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D71B18E-C837-433C-A51A-6B1DE61B1063}|ScremSound.csproj|c:\\users\\lroliveira\\onedrive\\desktop\\alura classes\\treinamento_alura\\consoleapp1\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D71B18E-C837-433C-A51A-6B1DE61B1063}|ScremSound.csproj|solutionrelative:musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D71B18E-C837-433C-A51A-6B1DE61B1063}|ConsoleApp1.csproj|c:\\users\\cailan\\onedrive\\\u00E1rea de trabalho\\treinamento_alura\\consoleapp1\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D71B18E-C837-433C-A51A-6B1DE61B1063}|ConsoleApp1.csproj|solutionrelative:musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D71B18E-C837-433C-A51A-6B1DE61B1063}|ScremSound.csproj|c:\\users\\lroliveira\\onedrive\\desktop\\alura classes\\treinamento_alura\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D71B18E-C837-433C-A51A-6B1DE61B1063}|ScremSound.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,17 +21,13 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Cailan\\OneDrive\\\u00C1rea de Trabalho\\TREINAMENTO_ALura\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lroliveira\\OneDrive\\Desktop\\Alura Classes\\TREINAMENTO_ALura\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Cailan\\OneDrive\\\u00C1rea de Trabalho\\TREINAMENTO_ALura\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "C:\\Users\\lroliveira\\OneDrive\\Desktop\\Alura Classes\\TREINAMENTO_ALura\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T09:46:57.664Z",
@@ -39,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Musica.cs",
-              "DocumentMoniker": "C:\\Users\\Cailan\\OneDrive\\\u00C1rea de Trabalho\\TREINAMENTO_ALura\\ConsoleApp1\\Musica.cs",
+              "DocumentMoniker": "C:\\Users\\lroliveira\\OneDrive\\Desktop\\Alura Classes\\TREINAMENTO_ALura\\ConsoleApp1\\Musica.cs",
               "RelativeDocumentMoniker": "Musica.cs",
-              "ToolTip": "C:\\Users\\Cailan\\OneDrive\\\u00C1rea de Trabalho\\TREINAMENTO_ALura\\ConsoleApp1\\Musica.cs",
-              "RelativeToolTip": "Musica.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\lroliveira\\OneDrive\\Desktop\\Alura Classes\\TREINAMENTO_ALura\\ConsoleApp1\\Musica.cs*",
+              "RelativeToolTip": "Musica.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T09:43:56.997Z",
               "EditorCaption": ""

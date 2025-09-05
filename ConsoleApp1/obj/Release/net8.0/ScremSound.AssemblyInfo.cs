@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScremSound")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db14cbc3d45d981d5cb9c309056f5143c8c7afb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+867293b224b8ab556fd54e8fd9ae4d1cc2df1051")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScremSound")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScremSound")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

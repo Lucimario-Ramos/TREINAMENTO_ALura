@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cailan\\OneDrive\\Área de Trabalho\\TREINAMENTO_ALura\\ConsoleApp1\\ScremSound.csproj": {}
+    "C:\\Users\\lroliveira\\OneDrive\\Desktop\\Alura Classes\\TREINAMENTO_ALura\\ConsoleApp1\\ScremSound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cailan\\OneDrive\\Área de Trabalho\\TREINAMENTO_ALura\\ConsoleApp1\\ScremSound.csproj": {
+    "C:\\Users\\lroliveira\\OneDrive\\Desktop\\Alura Classes\\TREINAMENTO_ALura\\ConsoleApp1\\ScremSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cailan\\OneDrive\\Área de Trabalho\\TREINAMENTO_ALura\\ConsoleApp1\\ScremSound.csproj",
+        "projectUniqueName": "C:\\Users\\lroliveira\\OneDrive\\Desktop\\Alura Classes\\TREINAMENTO_ALura\\ConsoleApp1\\ScremSound.csproj",
         "projectName": "ScremSound",
-        "projectPath": "C:\\Users\\Cailan\\OneDrive\\Área de Trabalho\\TREINAMENTO_ALura\\ConsoleApp1\\ScremSound.csproj",
-        "packagesPath": "C:\\Users\\Cailan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cailan\\OneDrive\\Área de Trabalho\\TREINAMENTO_ALura\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\lroliveira\\OneDrive\\Desktop\\Alura Classes\\TREINAMENTO_ALura\\ConsoleApp1\\ScremSound.csproj",
+        "packagesPath": "C:\\Users\\lroliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lroliveira\\OneDrive\\Desktop\\Alura Classes\\TREINAMENTO_ALura\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Cailan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lroliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

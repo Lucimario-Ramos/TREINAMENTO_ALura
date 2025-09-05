@@ -1,15 +1,15 @@
 ﻿Musica musica1 = new Musica();
-musica1.nome = "Primeiros Erros";
-musica1.artista = "Dinho Ouro Preto";
-musica1.duracao = 287;
-musica1.disponivel = true;
+musica1.Nome = "Primeiros Erros";
+musica1.Artista = "Dinho Ouro Preto";
+musica1.Duracao = 287;
+musica1.Disponivel = true;
 
 
 Musica musica2 = new Musica();
-musica2.nome = "Que pais é esse";
-musica2.artista = "Legião Hubana";
-musica2.duracao = 200;
-musica2.disponivel = false;
+musica2.Nome = "Que pais é esse";
+musica2.Artista = "Legião Hubana";
+musica2.Duracao = 200;
+musica2.Disponivel = false;
 
 musica1.ExibirFichaTecnica();
 musica2.ExibirFichaTecnica();
